@@ -1,7 +1,7 @@
 # Cloud-Choice
 
 
-**Cloud search** is an instant search app for game catalog offers from every **cloud gaming platform**.
+**Cloud Choice** is an instant search app for game catalog offers from every **cloud gaming platform**.
 
 The idea is to be able to centralize and facilitate the search for games and the choice of platforms.
 
