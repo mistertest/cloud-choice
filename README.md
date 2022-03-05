@@ -7,7 +7,7 @@ The idea is to be able to centralize and facilitate the search for games and the
 
 At the beginning of the project and in its Beta version, only the **Geforce Now API** is available.
 
-Soon and gradually, Cloud-choice will integrate the game listing APIs of all existing cloud gaming services:
+Soon and gradually, Cloud-choice will integrate the game listing APIs (unofficial) of all existing cloud gaming services:
 
  - Gforce Now
 - Stadia
