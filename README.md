@@ -1,6 +1,11 @@
 # Cloud-Choice
 
 
+
+
+![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
+
+
 **Cloud Choice** is an instant search app, for games catalog offers from every **cloud gaming platform**.
 
 The idea is to be able to centralize, and facilitate the search for games and the choice of platforms Quickly.
