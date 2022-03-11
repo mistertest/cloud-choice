@@ -38,8 +38,15 @@ Thanks to the Cloud Gaming Community Xtreme FR and US for their support.
 
 <br>
 
+Desktop
+<br>
+
 ![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_desktop.PNG)
 
+
+<br>
+
+Mobile
 <br>
 
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_mobile.PNG)
