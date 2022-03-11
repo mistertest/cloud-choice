@@ -22,7 +22,10 @@ Thanks to the fact that it will be a PWA, it can be installed on Desktop as well
 
 An Apk build, will certainly coming  soon too for "Cloud Choice".
 
+Thanks to the Cloud Gaming Community Xtreme FR and US for their support.
 
 
 **DEMO Beta:**<br>
 http://64.225.105.250:8080/cloud-choice.html
+
+
