@@ -24,5 +24,5 @@ An Apk build, will certainly coming  soon too for "Cloud Choice".
 
 
 
-**DEMO Beta:**
+**DEMO Beta:**<br>
 http://64.225.105.250:8080/cloud-choice.html
