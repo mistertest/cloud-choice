@@ -35,3 +35,12 @@ http://64.225.105.250:8080/cloud-choice.html
 
 
 Thanks to the Cloud Gaming Community Xtreme FR and US for their support.
+
+<br>
+
+![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_desktop.PNG)
+
+<br>
+
+![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_mobile.PNG)
+
