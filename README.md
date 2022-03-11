@@ -34,7 +34,7 @@ http://64.225.105.250:8080/cloud-choice.html
 
 
 
-Thanks to the Cloud Gaming Community Xtreme FR and US for their support.
+Thanks to the Cloud Gaming Xtreme Community FR and US for their support.
 
 <br>
 
