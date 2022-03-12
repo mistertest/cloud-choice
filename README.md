@@ -43,6 +43,11 @@ Desktop
 
 ![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_desktop.PNG)
 
+<br>
+
+![Boosteroid](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_stadia.PNG)
+
+
 
 <br>
 
