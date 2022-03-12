@@ -14,7 +14,7 @@ Soon and gradually, Cloud-choice will integrate the game listing APIs (unofficia
 - Geforce Now - Ready and Auto synchronised
 - Stadia - Ready and Auto synchronised
 - Xcloud - Ready and Auto synchronised
-- Boosteroid - Soon
+- Boosteroid - Ready and Auto synchronised
 - Playstation Now - Soon
 - Luna - Soon
 
