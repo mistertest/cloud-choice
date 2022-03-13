@@ -45,6 +45,14 @@ Desktop
 
 <br>
 
+![cloud_choice_stores](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_4stores.PNG)
+
+
+
+
+
+<br>
+
 ![Boosteroid](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_stadia.PNG)
 
 
