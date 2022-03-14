@@ -3,7 +3,8 @@
 
 <br>
 
-![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
+
+<div style="background:white;">![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)</div>
 
 <br>
 **Cloud Choice** is an instant search app, for games catalog offers from every Cloud gaming platform.
