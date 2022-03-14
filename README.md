@@ -4,7 +4,7 @@
 <br>
 
 
-<div style="background:white;">![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)</div>
+![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 
 <br>
 **Cloud Choice** is an instant search app, for games catalog offers from every Cloud gaming platform.
