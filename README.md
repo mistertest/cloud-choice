@@ -32,7 +32,7 @@ An Apk build, will certainly coming  soon too for "Cloud Choice".
 
 
 **DEMO BETA :**<br>
-http://cloudchoice.org/
+https://www.cloudchoice.org
 
 
 
