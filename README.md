@@ -34,7 +34,11 @@ An Apk build, will certainly coming  soon too for "Cloud Choice".
 **DEMO BETA :**<br>
 https://www.cloudchoice.org
 
+You can now easily install Cloud Choice from the browser like others native apps on your os Desktop Windows, Linux, Mac and Os mobile, Android and Ios.
 
+
+
+<br>
 
 Thanks to the Cloud Gaming Xtreme FR and US community for their support.
 
