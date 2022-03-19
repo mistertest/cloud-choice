@@ -37,6 +37,16 @@ https://www.cloudchoice.org
 You can now easily install Cloud Choice from the browser like others native apps on your os Desktop Windows, Linux, Mac and Os mobile, Android and Ios.
 
 
+Features Roadmap 
+- Offline Mode
+- Theme select inspired by the design of Stadia, Steam, Discord, Xbox...
+- New platforms : Luna, Psnow, Pleio
+- Add to the Wishlist
+- An overview of the games that will leave the platforms
+
+
+
+
 
 <br>
 
