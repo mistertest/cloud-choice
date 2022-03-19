@@ -52,6 +52,21 @@ Features Roadmap
 
 Thanks to the Cloud Gaming Xtreme FR and US community for their support.
 
+
+
+<br>
+
+Install on Desktop and Mobile
+
+![cloud_choice_install_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/install_button_desktop.PNG)
+
+<br>
+
+![cloud_choice_install_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_mobile.PNG)
+
+
+
+
 <br>
 
 Desktop
