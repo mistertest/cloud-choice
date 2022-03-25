@@ -56,7 +56,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - Nottifications for new games
 - Links to kinguin and G2a 
 - Url sharing links
-- Authentificatin & synchronisation Steam
+- Authentification & Synchronisation Steam
 
 
 
