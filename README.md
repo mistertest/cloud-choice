@@ -10,7 +10,7 @@
 <b>Cloud Choice</b> is an instant search app, for games catalog offers from every Cloud gaming platform.
 
 The idea is to be able to centralize, and facilitate the search for games and the choice of platforms Quickly.<br>
-Soon and gradually, Cloud-choice will integrate the game listing APIs (unofficial) of all existing cloud gaming services:
+Soon and gradually, Cloud-choice will integrate the game listing APIs of all existing cloud gaming services:
 
 - <b>Geforce Now </b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Stadia</b> - Ready and Auto synchronised :heavy_check_mark:
@@ -21,13 +21,13 @@ Soon and gradually, Cloud-choice will integrate the game listing APIs (unofficia
 
 
 
-The objective in terms of **API**, is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically.
+The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
 
 The application is a **SPA** ( Single Page Application) and **PWA** ( Progressive Web App).
 
 Thanks to the fact that it will be a PWA, it can be installed on Desktop as well as on mobile and all OS.
 
-An Apk build, will certainly coming  soon too for "Cloud Choice".
+An Apk build, will certainly coming  soon for "Cloud Choice".
 
 
 
@@ -56,7 +56,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 <br>
 
-Thanks to the Cloud Gaming Xtreme FR and US community for their support.
+Thanks to the Cloud Gaming Xtreme FR-US community for their support.
 
 
 
