@@ -62,6 +62,16 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 
 
+Technos used for Cloud Choice
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,php,linux,regex,jquery,css,py,noedjs)](https://skillicons.dev)
+
+
+
+
+
+
+
 <br>
 
 Thanks to the Cloud Gaming Xtreme FR-US community for their support.
