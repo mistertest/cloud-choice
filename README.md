@@ -39,8 +39,10 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 
 <b>Optimisations Roadmap</b>
+- better optimisation of speed search results
+- More light with data and media compression (gzip, webp...)
 
-
+<br>
 
 
 <b>Features Roadmap</b>
@@ -49,6 +51,10 @@ You can now easily install Cloud Choice from the browser like others native apps
 - New platforms : Luna, Psnow, Pleio
 - Add to the Wishlist
 - An overview of the games that will leave the platforms
+- An overview of new games added
+- Nottifications for new games
+- Links to kinguin and G2a 
+- Url sharing links
 
 
 
