@@ -72,7 +72,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 
 
-<br>
+<br><br><br><br>
 
 Thanks to the Cloud Gaming Xtreme FR-US community for their support.
 
