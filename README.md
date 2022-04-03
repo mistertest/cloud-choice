@@ -12,7 +12,7 @@
 The idea is to be able to centralize, and facilitate the search for games and the choice of platforms Quickly.<br>
 Soon and gradually, Cloud-choice will integrate the game listing APIs of all existing cloud gaming services:
 
-- <b>Geforce Now </b> - Ready and Auto synchronised :heavy_check_mark:
+- <b>GeForce Now </b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Stadia</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Xcloud</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Boosteroid</b> - Ready and Auto synchronised :heavy_check_mark:
