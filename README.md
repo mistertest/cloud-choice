@@ -17,7 +17,7 @@ Soon and gradually, Cloud-choice will integrate the game listing APIs of all exi
 - <b>Xcloud</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Boosteroid</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Luna</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Playstation Now</b> - Soon
+- <b>Playstation Now</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Pleio</b> - Soon
 
 
