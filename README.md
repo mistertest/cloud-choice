@@ -32,7 +32,7 @@ An Apk build, will certainly coming  soon for "Cloud Choice".
 
 
 
-<b>BETA</b> <br>
+<b>The Progressive Web App</b> <br>
 
 https://www.cloudchoice.org
 
