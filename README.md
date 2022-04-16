@@ -73,7 +73,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 <b>Technos used for CloudChoice:</b>
 <br><br>
-Html5 / css3 / Js / jquery / Php / NodeJs / Linux / Regex / Python / Cron / Pwa
+Html5 / css3 / Js / Bootstrap / jquery / Php / NodeJs / Linux / Regex / Python / Cron / Pwa
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,nodejs,linux,regex,py)](https://skillicons.dev)
 
