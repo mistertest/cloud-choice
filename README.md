@@ -66,6 +66,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - Links to kinguin and G2a 
 - Url sharing links of results search
 - Authentification & Synchronisation Steam
+- Category Coop Games
 
 
 
