@@ -92,15 +92,7 @@ Thanks to the Cloud Gaming Xtreme FR-US community for their support.
 
 <br>
 
-Install on Desktop and Mobile
-
-![cloud_choice_install_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/install_button_desktop.PNG)
-
-<br>
-
-![cloud_choice_install_button_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/install_button_mobile.PNG)
-
-
+Install it on Desktop and Mobile directly from the browser with one button.
 
 
 <br>
