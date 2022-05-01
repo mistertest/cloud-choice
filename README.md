@@ -118,5 +118,5 @@ Desktop
 Mobile
 <br>
 
-![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_mobile.PNG)
+![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
