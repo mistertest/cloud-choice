@@ -88,10 +88,6 @@ Html5 / Css3 / Js / Bootstrap / Jquery / Php / Json / NodeJs / Linux / Regex / P
 
 Thanks to the Cloud Gaming Xtreme FR-US community for their support.
 
-
-
-<br>
-
 Install it on Desktop and Mobile directly from the browser with one button.
 
 
