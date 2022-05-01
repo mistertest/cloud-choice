@@ -108,19 +108,8 @@ Install on Desktop and Mobile
 Desktop
 <br>
 
-![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_desktop.PNG)
+![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_desktop.png)
 
-<br>
-
-![cloud_choice_stores](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choice_4stores.PNG)
-
-
-
-
-
-<br>
-
-![Boosteroid](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_stadia.PNG)
 
 
 
