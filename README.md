@@ -86,7 +86,7 @@ Html5 / Css3 / Js / Bootstrap / Jquery / Php / Json / NodeJs / Linux / Regex / P
 
 <br><br><br><br>
 
-Thanks to the Cloud Gaming Xtreme FR-US community for their support.
+
 
 Install it on Desktop and Mobile directly from the browser with one button.
 
@@ -107,4 +107,7 @@ Mobile
 <br>
 
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
+
+
+Thanks to the Cloud Gaming Xtreme FR-US community for their support.
 
