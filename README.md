@@ -78,15 +78,7 @@ Html5 / Css3 / Js / Bootstrap / Jquery / Php / Json / NodeJs / Linux / Regex / P
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,nodejs,linux,py)](https://skillicons.dev)
 
-
-
-
-
-
-
-<br><br><br><br>
-
-
+<br><br>
 
 Install it on Desktop and Mobile directly from the browser with one button.
 
