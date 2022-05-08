@@ -82,7 +82,8 @@ Html5 / Css3 / Js / Bootstrap / Jquery / Php / Json / NodeJs / Linux / Regex / P
 
 <br><br>
 
-Install it on Desktop and Mobile directly from the browser with one button.
+### PWA Installation
+You can Install it on Desktop OS and Mobile directly from the browser with just one button click.
 
 ![install](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/button_install.PNG)
 
