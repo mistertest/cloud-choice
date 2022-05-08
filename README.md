@@ -105,7 +105,5 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 
-Thanks to the "Cloud Gaming Xtreme" and "Cloud Gaming France" community for their support.
-
-Thanks to the talented Mister Naz for his precious help and our new collaboration.
+Thanks to the "Cloud Gaming Xtreme" and "Cloud Gaming France" community for their support.<br>Thanks to the talented Mister Naz for his precious help and our new collaboration.
 
