@@ -43,15 +43,15 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 
 <b>Bug fixes</b><br>
-- Js issues on mobile App resolved
-- The button search of the virtual keyboard close the keyboard
-- Better responsive design and UX
+- Js issues on mobile App resolved  :heavy_check_mark:
+- The button search of the virtual keyboard close the keyboard  :heavy_check_mark:
+- Better responsive design and UX  :heavy_check_mark:
 
 
 
 
 <b>Optimisations Roadmap</b>
-- better optimisation of speed search results
+- better optimisation of speed search results  :heavy_check_mark:
 - More light with data and media compression (gzip, webp...)
 
 <br>
@@ -63,7 +63,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - New platforms : Luna, Psnow, Pleio
 - Add to the Wishlist
 - An overview of the games that will leave the platforms
-- An overview of new games added
+- An overview of new games added  :heavy_check_mark:
 - Nottifications for new games
 - Links to kinguin and G2a 
 - Url sharing links of results search
