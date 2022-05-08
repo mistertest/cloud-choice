@@ -89,7 +89,7 @@ You can Install it on Desktop OS and Mobile directly from the browser with just 
 
 <br>
 
-Desktop
+#### Desktop
 <br>
 
 ![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_desktop.png)
@@ -99,7 +99,7 @@ Desktop
 
 <br>
 
-Mobile
+#### Mobile
 <br>
 
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
