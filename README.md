@@ -108,8 +108,5 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 Thanks to the "Cloud Gaming Xtreme" and "Cloud Gaming France" community for their support.<br>Thanks to the talented Mister Naz for his precious help and our new collaboration.
 
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/343875?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
 
 
