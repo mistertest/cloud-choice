@@ -40,6 +40,8 @@ You can now easily install Cloud Choice from the browser like others native apps
 
 
 
+
+
 <b>Bug fixes</b><br>
 - Js issues on mobile App resolved
 - The button search of the virtual keyboard close the keyboard
@@ -82,6 +84,7 @@ Html5 / Css3 / Js / Bootstrap / Jquery / Php / Json / NodeJs / Linux / Regex / P
 
 Install it on Desktop and Mobile directly from the browser with one button.
 
+![install](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/button_install.PNG)
 
 <br>
 
