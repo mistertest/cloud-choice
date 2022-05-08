@@ -106,5 +106,6 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 
 
 Thanks to the "Cloud Gaming Xtreme" and "Cloud Gaming France" community for their support.
+
 Thanks to the talented Mister Naz for his precious help and our new collaboration.
 
