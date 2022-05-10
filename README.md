@@ -101,7 +101,7 @@ CloudChoice App on Windows 10
 #### CloudChoice Desktop
 <br>
 
-![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
+![cloud_choice_desktop](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/cloudchoice_newDesktop.PNG)
 
 
 
