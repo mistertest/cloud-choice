@@ -37,7 +37,7 @@ An Apk build, will certainly coming  soon for "Cloud Choice".
 https://www.cloudchoice.org
 
 
-<a href="https://www.producthunt.com/posts/cloudchoice?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cloudchoice" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=343875&theme=light" alt="CloudChoice - Cloud&#0032;choice&#0032;is&#0032;an&#0032;instant&#0032;search&#0032;app&#0032;for&#0032;Cloud&#0032;Gaming | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/cloudchoice?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cloudchoice" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=343875&theme=dark" alt="CloudChoice - Cloud&#0032;choice&#0032;is&#0032;an&#0032;instant&#0032;search&#0032;app&#0032;for&#0032;Cloud&#0032;Gaming | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
 You can now easily install Cloud Choice from the browser like others native apps on your os Desktop Windows, Linux, Mac and Os mobile, Android and Ios.
