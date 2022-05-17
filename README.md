@@ -65,7 +65,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - An overview of the games that will leave the platforms
 - An overview of new games added  :heavy_check_mark:
 - Nottifications for new games
-- Links to kinguin and G2a 
+- Links to kinguin and G2a  - In progress in Dev version
 - Url sharing links of results search
 - Authentification & Synchronisation Steam
 - Category Coop Games
