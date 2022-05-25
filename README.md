@@ -117,7 +117,7 @@ CloudChoice App on Windows 10
 Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" community for their support.<br>Thanks to the talented Mister Naz for his precious help and our new collaboration.
 
 
-## GIVING SOME LOVE
+### GIVING SOME LOVE
 
 You appreciate my work and for you Cloud Choice is a life Saver in the world of Cloud Gaming ?<br>
 Don't hesitate to making a comment and voting in the Product Hunt page.
