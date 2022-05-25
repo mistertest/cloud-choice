@@ -114,6 +114,8 @@ CloudChoice App on Windows 10
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 
+
+#### The best comunauty
 Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" community for their support.<br>Thanks to the talented Mister Naz for his precious help and our new collaboration.
 
 
