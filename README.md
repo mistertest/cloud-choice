@@ -120,7 +120,8 @@ Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" communi
 ### GIVING SOME LOVE
 
 You appreciate my work and for you Cloud Choice is a life Saver in the world of Cloud Gaming ?<br>
-Don't hesitate to making a comment and voting in the Product Hunt page.
+Don't hesitate to making a comment and voting in the Product Hunt page. <br>
+Thank you Cloud Gamers !
 
 <a href="https://www.producthunt.com/posts/cloudchoice?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cloudchoice" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=343875&theme=dark" alt="CloudChoice - Cloud&#0032;choice&#0032;is&#0032;an&#0032;instant&#0032;search&#0032;app&#0032;for&#0032;Cloud&#0032;Gaming | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
