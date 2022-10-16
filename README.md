@@ -20,7 +20,7 @@ Soon and gradually, Cloud-choice will integrate the game listing APIs of all exi
 - <b>Playstation Now</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Pleio</b> - Soon
 
->### NEWS END OF STADIA
+>### NEWS - END OF STADIA
 >It's sadly the end of Google Stadia (the public version)
 >Cloud Choice will stopping the suport of the Stadia Catalog in January 18 2023
 
