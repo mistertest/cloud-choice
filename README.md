@@ -21,7 +21,7 @@ Soon and gradually, Cloud-choice will integrate the game listing APIs of all exi
 - <b>Blacknut</b> - Ready and Auto synchronised :heavy_check_mark:
 
 >### NEWS - END OF STADIA
->It's sadly the end of Google Stadia (the public version)<br>
+>Sadly it's the end of Google Stadia (the public version)<br>
 >Cloud Choice will stopping the suport of the Stadia Catalog in January 18 2023
 
 
