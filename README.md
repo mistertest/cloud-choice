@@ -83,7 +83,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 <br><br>
 Html5 / Css3 / Js / Bootstrap / Jquery / Json / Jq / NodeJs / Linux / Regex / Python / Selenium / Cron / Rest Api / PWA...
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,php,nodejs,linux,py,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 
 <br><br>
 
