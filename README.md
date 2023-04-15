@@ -13,12 +13,12 @@ The idea is to be able to centralize, and facilitate the search for games and th
 Soon and gradually, Cloud-choice will integrate the game listing APIs of all existing cloud gaming services:
 
 - <b>GeForce Now </b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Stadia</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Xcloud</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Boosteroid</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Luna</b> - Ready and Auto synchronised :heavy_check_mark:
 - <b>Playstation Now</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Pleio</b> - Soon
+- <b>Pleio</b> - Ready and Auto synchronised :heavy_check_mark:
+- <b>Blacknut</b> - Ready and Auto synchronised :heavy_check_mark:
 
 >### NEWS - END OF STADIA
 >It's sadly the end of Google Stadia (the public version)<br>
