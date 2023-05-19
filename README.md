@@ -17,28 +17,28 @@ The main goal of the app is to centralize and simplify the process of searching 
 <b>Bug fixes:</b><br>
 - JS issues on mobile app resolved  :heavy_check_mark:
 - The button search of the virtual keyboard close the keyboard  :heavy_check_mark:
-- Better responsive design and UX  :heavy_check_mark:
+- Better responsive design and UX.  :heavy_check_mark:
 
 <b>Optimisations Roadmap:</b><br>
-- better optimisation of speed search results  :heavy_check_mark:<br>
-- More light with data and media compression (gzip, webp...)<br>
+- Better optimisation of speed search results. :heavy_check_mark:<br>
+- More light with data and media compression. (gzip, webp...)<br>
 
 <b>Features Roadmap:</b><br>
 - Offline Mode<br>
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...<br>
 - New platforms:
-Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:<br>
-- Add to the Wishlist<br>
+Amazon Luna, PlayStation Now, Pleio, Blacknut  :heavy_check_mark:<br>
+- Add to the wishlist.<br>
 - An overview of the games that will leave the platforms<br>
 - An overview of new games added  :heavy_check_mark:<br>
 - Notifications for new games<br>
-- Links to kinguin and Instant Gaming - Coming back soon<br>
-- Url sharing links of results search :heavy_check_mark:<br>
-- Authentification & Synchronisation Steam<br>
-- Category Coop Games<br>
+- Links to Kinguin, and instant gaming - Coming back soon<br>
+- URL sharing links of results search :heavy_check_mark:<br>
+- Authentication & Synchronisation Steam<br>
+- Category Co-op Games<br>
 
 ### Installation:
-You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
+You can install Cloud Choice on PC, and mobile from the browser with the button at the bottom of the page.
 
 ![install](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/button_install.PNG)
 ### Screenshots:
