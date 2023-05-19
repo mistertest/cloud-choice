@@ -1,6 +1,6 @@
 # Cloud-Choice
 <br>
-![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
+![Logo](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 <br>
 <b>Cloud Choice</b> is a instant search app that offers a catalog of games from the major cloud gaming platforms.
 <br>
@@ -28,8 +28,11 @@ You can now easily install Cloud Choice from the browser like others native apps
 <br>
 <b>Features Roadmap</b>
 - Offline Mode
+
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...
-- New platforms : Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
+
+- New platforms :
+Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Add to the Wishlist
 - An overview of the games that will leave the platforms
 - An overview of new games added  :heavy_check_mark:
