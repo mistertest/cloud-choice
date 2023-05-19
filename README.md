@@ -20,13 +20,6 @@ The main goal of the app is to centralize and simplify the process of searching 
 - <b>Pleio</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
->### NEWS - END OF STADIA
->Sadly it's the end of Google Stadia (the public version)<br>
->Cloud Choice will stopping the suport of the Stadia Catalog in January 18 2023
-
-
-
-
 The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
 
 The application is a **SPA** ( Single Page Application) and **PWA** ( Progressive Web App).
