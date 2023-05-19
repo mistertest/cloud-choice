@@ -5,7 +5,6 @@
 <b>Cloud Choice</b> is a instant search app that offers a catalog of games from the major cloud gaming platforms.
 <br>
 The main goal of the app is to centralize and simplify the process of searching for games and choosing the appropriate platforms quickly. In the near future, Cloud Choice plans to integrate the game listing APIs of all the existing cloud gaming services, including:
-<br>
 - <b>GeForce Now </b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Xcloud</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Boosteroid</b> - Ready and auto-synchronised :heavy_check_mark:
