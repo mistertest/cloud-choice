@@ -64,7 +64,7 @@ CloudChoice App on Windows 10
 <br>
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
-
+<b>The Progressive Web App</b> <br>
 The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
 
 The application is a **SPA** ( Single Page Application) and **PWA** ( Progressive Web App).
@@ -72,9 +72,6 @@ The application is a **SPA** ( Single Page Application) and **PWA** ( Progressiv
 Thanks to the fact that it will be a PWA, it can be installed on Desktop as well as on mobile and all OS.
 
 An Apk build, will certainly coming  soon for "Cloud Choice".
-<b>The Progressive Web App</b> <br>
-https://www.cloudchoice.org
-<a href="https://www.producthunt.com/posts/cloudchoice?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cloudchoice" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=343875&theme=dark" alt="CloudChoice - Cloud&#0032;choice&#0032;is&#0032;an&#0032;instant&#0032;search&#0032;app&#0032;for&#0032;Cloud&#0032;Gaming | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 #### THANKS TO CGX AND CGF
 Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" communauty for their support.<br>
