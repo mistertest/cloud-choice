@@ -25,6 +25,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 <b>Optimisations Roadmap:</b><br>
 - better optimisation of speed search results  :heavy_check_mark:<br>
 - More light with data and media compression (gzip, webp...)<br>
+
 <b>Features Roadmap:</b><br>
 - Offline Mode<br>
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...<br>
