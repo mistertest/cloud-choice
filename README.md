@@ -14,7 +14,7 @@ The main goal of the app is to centralize and simplify the process of searching 
 - <b>Pleio</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
-You can now easily install Cloud Choice from the browser like others native apps on your OS Desktop Windows, Linux, MacOS, Mobile, Android and iOS.
+You can easily install Cloud Choice from the browser on you're desktop, phone or tablet as a PWA.
 
 <b>Bug fixes:</b><br>
 - JS issues on mobile app resolved  :heavy_check_mark:
