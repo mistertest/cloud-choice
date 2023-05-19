@@ -18,13 +18,13 @@
 - <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
 <b>Bug fixes:</b><br>
-- JS issues on the mobile app are now resolved. :heavy_check_mark:
-- The search button no longer closes the virtual keyboard. :heavy_check_mark:
-- Better responsive design, and UX.  :heavy_check_mark:
+[✅] JS issues on the mobile app are now resolved.
+[✅] The search button no longer closes the virtual keyboard.
+[✅] Better responsive design, and UX. 
 
 <b>Optimisation Roadmap:</b><br>
-[-] Better optimisation of the search querying. :heavy_check_mark:<br>
-[-] More light with data and media compression. (gzip, webp...)⌛<br>
+[✅] Better optimisation of the search querying. <br>
+[⌛] More light with data and media compression. (gzip, webp...)<br>
 
 <b>Feature Roadmap:</b><br>
 [⌛] Offline mode.<br>
