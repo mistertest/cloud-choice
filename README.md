@@ -58,7 +58,7 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 HTML5 / CSS3 / JS / Bootstrap / Jquery / JSON / Jq / NodeJS / Linux / Regex / Python / Selenium / Cron / Rest API / PWA...
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
-<b>The Progressive Web App</b> <br>
+<b>The Progressive Web App:</b> <br>
 The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
 
 The application is a **SPA** ( Single Page Application) and **PWA** ( Progressive Web App).
