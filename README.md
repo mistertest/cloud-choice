@@ -52,7 +52,22 @@ CloudChoice Mobile
 
 <b>Technologies used for CloudChoice:</b>
 <br><br>
-HTML5 / CSS3 / JS / Bootstrap / Jquery / JSON / Jq / NodeJS / Linux / Regex / Python / Selenium / Cron / Rest API / PWA...
+HTML5
+CSS3
+JS
+Bootstrap
+Jquery
+JSON
+Jq
+NodeJS
+Linux
+Regex
+Python
+Selenium
+Cron
+Rest API
+PWA
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 <b>The Progressive Web App:</b> <br>
