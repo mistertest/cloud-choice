@@ -19,7 +19,7 @@ The main goal of the app is to centralize and simplify the process of searching 
 - The button search of the virtual keyboard close the keyboard  :heavy_check_mark:
 - Better responsive design and UX.  :heavy_check_mark:
 
-<b>Optimisations Roadmap:</b><br>
+<b>Optimisation Roadmap:</b><br>
 - Better optimisation of speed search results. :heavy_check_mark:<br>
 - More light with data and media compression. (gzip, webp...)<br>
 
