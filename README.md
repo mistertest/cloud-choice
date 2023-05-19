@@ -24,20 +24,20 @@
 
 <b>Optimisation Roadmap:</b><br>
 [-] Better optimisation of the search querying. :heavy_check_mark:<br>
-- More light with data and media compression. (gzip, webp...)⌛<br>
+[-] More light with data and media compression. (gzip, webp...)⌛<br>
 
 <b>Feature Roadmap:</b><br>
-- Offline mode.⌛<br>
-- Theme selections inspired by the design of Steam, Discord, Xbox, etc.⌛<br>
-- Implement Amazon Luna, PlayStation Now, Pleio, and Blacknut support. :heavy_check_mark:<br>
-- Wishlist functionality.⌛<br>
-- An overview of the games that will leave the platforms.⌛<br>
-- Game overviews.  :heavy_check_mark:<br>
-- New game notifications.⌛<br>
-- Links to Kinguin, and instant gaming - Coming back soon⌛<br>
-- Search result sharing functionality. :heavy_check_mark:<br>
-- Steam synchronization, and authentication.⌛<br>
-- Implementation of a co-op category.⌛<br>
+[-] Offline mode.⌛<br>
+[-] Theme selections inspired by the design of Steam, Discord, Xbox, etc.⌛<br>
+[-] Implement Amazon Luna, PlayStation Now, Pleio, and Blacknut support. :heavy_check_mark:<br>
+[-] Wishlist functionality.⌛<br>
+[-] An overview of the games that will leave the platforms.⌛<br>
+[-] Game overviews.  :heavy_check_mark:<br>
+[-] New game notifications.⌛<br>
+[-] Links to Kinguin, and instant gaming - Coming back soon⌛<br>
+[-] Search result sharing functionality. :heavy_check_mark:<br>
+[-] Steam synchronization, and authentication.⌛<br>
+[-] Implementation of a co-op category.⌛<br>
 
 ### Installation:
 You can install Cloud Choice on PC, and mobile from the browser with the button at the bottom of the page.
