@@ -28,7 +28,7 @@
 
 <b>Feature Roadmap:</b><br>
 - Offline mode.<br>
-- Theme selections inspired by the design of Stadia, Steam, Discord, Xbox, etc.<br>
+- Theme selections inspired by the design of Steam, Discord, Xbox, etc.<br>
 - Implement Amazon Luna, PlayStation Now, Pleio, Blacknut support. :heavy_check_mark:<br>
 - Wishlist functionality.<br>
 - An overview of the games that will leave the platforms.<br>
