@@ -19,7 +19,9 @@
 
 <b>Bug fixes:</b><br>
 [✅] JS issues on the mobile app are now resolved.
+
 [✅] The search button no longer closes the virtual keyboard.
+
 [✅] Better responsive design, and UX. 
 
 <b>Optimisation Roadmap:</b><br>
