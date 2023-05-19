@@ -49,6 +49,7 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 ![install2](https://github.com/mistertest/cloud-choice/blob/main/img/demarer_cloud_choice.png)
 ![CloudChoice_Desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
 <br>
+### Screenshots
 <b>CloudChoice Mobile:</b><br>
 <br>
 ![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
