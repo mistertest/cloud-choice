@@ -40,10 +40,6 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Authentification & Synchronisation Steam
 - Category Coop Games
 
-<b>Technos used for CloudChoice:</b>
-<br><br>
-Html5 / Css3 / Js / Bootstrap / Jquery / Json / Jq / NodeJs / Linux / Regex / Python / Selenium / Cron / Rest Api / PWA...
-<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 ### PWA Installation
@@ -65,6 +61,10 @@ CloudChoice App on Windows 10
 <br>
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
+<b>Technos used for CloudChoice:</b>
+<br><br>
+Html5 / Css3 / Js / Bootstrap / Jquery / Json / Jq / NodeJs / Linux / Regex / Python / Selenium / Cron / Rest Api / PWA...
+<br><br>
 <b>The Progressive Web App</b> <br>
 The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
 
