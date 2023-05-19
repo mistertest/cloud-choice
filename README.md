@@ -1,5 +1,5 @@
 # Cloud Choice
-[![My Skills](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
+![My Skills](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 <br>
 <b>Cloud Choice</b> is a instant search app that offers a catalog of games from the major cloud gaming platforms.
 <br>
