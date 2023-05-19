@@ -7,18 +7,18 @@
 ![logo_cloud_choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 
 <br>
-<b>Cloud Choice</b> is an instant search app, for games catalog offers from every Cloud gaming platform.
+<b>Cloud Choice</b> is a instant search app that offers a catalog of games from the major cloud gaming platforms.
+<br>
+The main goal of the app is to centralize and simplify the process of searching for games and choosing the appropriate platforms quickly.
+<br>In the near future, Cloud Choice plans to integrate the game listing APIs of all the existing cloud gaming services, including:
 
-The idea is to be able to centralize, and facilitate the search for games and the choice of platforms Quickly.<br>
-Soon and gradually, Cloud-choice will integrate the game listing APIs of all existing cloud gaming services:
-
-- <b>GeForce Now </b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Xcloud</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Boosteroid</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Luna</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Playstation Now</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Pleio</b> - Ready and Auto synchronised :heavy_check_mark:
-- <b>Blacknut</b> - Ready and Auto synchronised :heavy_check_mark:
+- <b>GeForce Now </b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Xcloud</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Boosteroid</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Luna</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Playstation Now</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Pleio</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
 >### NEWS - END OF STADIA
 >Sadly it's the end of Google Stadia (the public version)<br>
