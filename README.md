@@ -51,7 +51,6 @@ CloudChoice Mobile
 ![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 <b>Technologies used for CloudChoice:</b>
-<br><br>
 - HTML5
 - CSS3
 - JS
