@@ -79,12 +79,12 @@ The application is a **SPA** ( Single Page Application) and **PWA** ( Progressiv
 
 Thanks to the fact that it will be a PWA, it can be installed on Desktop as well as on mobile and all OS.
 
-An Apk build, will certainly coming  soon for "Cloud Choice".
+An APK build, will certainly coming  soon for "Cloud Choice".
 
 #### THANKS TO CGX AND CGF
 Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" communauty for their support.<br>
 Thanks to the talented Mister Naz for his precious help and our new collaboration.
-
+English grammer, and text corrections were made possible by [[**MattTheTekie**]](https://github.com/mattthetekie)
 
 ### GIVING SOME LOVE
 
