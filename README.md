@@ -26,7 +26,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 <b> - better optimisation of speed search results  :heavy_check_mark: </br>
 - More light with data and media compression (gzip, webp...)
 <br>
-<b>Features Roadmap:</b>
+<b>Features Roadmap:</b><br>
 - Offline Mode<br>
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...<br>
 - New platforms:
@@ -38,7 +38,7 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:<br>
 - Links to kinguin and Instant Gaming - Coming back soon<br>
 - Url sharing links of results search :heavy_check_mark:<br>
 - Authentification & Synchronisation Steam<br>
-- Category Coop Games
+- Category Coop Games<br>
 
 ### PWA Installation
 You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
