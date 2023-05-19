@@ -52,7 +52,7 @@ Cloud Choice Desktop
 Cloud Choice Mobile
 ![Cloud Choice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
-<b>Technologies used for Cloud Choice:</b>
+<b>Technologies used in Cloud Choice:</b>
 - HTML5
 - CSS3
 - JS
