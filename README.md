@@ -38,7 +38,8 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Links to kinguin and Instant Gaming - Coming back soon
 - Url sharing links of results search :heavy_check_mark:
 - Authentification & Synchronisation Steam
-- Category Coop Games<br>
+- Category Coop Games
+<br>
 
 ### PWA Installation
 You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
