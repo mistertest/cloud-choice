@@ -50,7 +50,7 @@ CloudChoice App on Windows 10
 
 ![install2](https://github.com/mistertest/cloud-choice/blob/main/img/demarer_cloud_choice.png)
 <br>
-#### CloudChoice Desktop
+CloudChoice Desktop
 <br>
 ![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
 <br>
