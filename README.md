@@ -83,7 +83,7 @@ An APK build, will certainly coming  soon for "Cloud Choice".
 
 #### THANKS TO CGX AND CGF
 Thanks to the  CGX, "Cloud Gaming Xtreme" and CGF, "Cloud Gaming France" communauty for their support.<br>
-Thanks to the talented Mister Naz for his precious help and our new collaboration.
+Thanks to the talented Mister Naz for his precious help and our new collaboration.<br>
 English grammer, and text corrections were made possible by [[**MattTheTekie**]](https://github.com/mattthetekie)
 
 ### GIVING SOME LOVE
