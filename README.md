@@ -55,7 +55,7 @@ CloudChoice Desktop:
 <br>
 CloudChoice Mobile:
 <br>
-[![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
+![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 <b>Technologies used for CloudChoice:</b>
 <br><br>
