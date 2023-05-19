@@ -23,14 +23,13 @@
 - Better responsive design, and UX.  :heavy_check_mark:
 
 <b>Optimisation Roadmap:</b><br>
-- Better optimisation of speed search results. :heavy_check_mark:<br>
+- Better optimisation of the search querying. :heavy_check_mark:<br>
 - More light with data and media compression. (gzip, webp...)<br>
 
 <b>Feature Roadmap:</b><br>
-- Offline Mode.<br>
-- Theme selectiond based inspired by the design of Stadia, Steam, Discord, Xbox, etc.<br>
-- New platforms:
-Amazon Luna, PlayStation Now, Pleio, Blacknut. :heavy_check_mark:<br>
+- Offline mode.<br>
+- Theme selections inspired by the design of Stadia, Steam, Discord, Xbox, etc.<br>
+- Implement Amazon Luna, PlayStation Now, Pleio, Blacknut support. :heavy_check_mark:<br>
 - Wishlist functionality.<br>
 - An overview of the games that will leave the platforms.<br>
 - Game overviews.  :heavy_check_mark:<br>
