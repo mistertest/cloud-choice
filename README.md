@@ -49,10 +49,8 @@ You can Install it on Desktop OS PC and Mobile directly from the browser with ju
 ![CloudChoice_Desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
 Cloudchoice Desktop
 <br>
-<b>CloudChoice Mobile:</b><br>
-<br>
 ![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
-
+CloudChoice Mobile
 <b>Technologies used for CloudChoice:</b>
 <br><br>
 HTML5 / CSS3 / JS / Bootstrap / Jquery / JSON / Jq / NodeJS / Linux / Regex / Python / Selenium / Cron / Rest API / PWA...
