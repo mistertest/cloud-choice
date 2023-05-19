@@ -18,9 +18,9 @@
 - <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
 <b>Bug fixes:</b><br>
-- JS issues on mobile app resolved. :heavy_check_mark:
-- The button search of the virtual keyboard close the keyboard.  :heavy_check_mark:
-- Better responsive design and UX.  :heavy_check_mark:
+- JS issues on the mobile app are now resolved. :heavy_check_mark:
+- The search button no longer closes the virtual keyboard. :heavy_check_mark:
+- Better responsive design, and UX.  :heavy_check_mark:
 
 <b>Optimisation Roadmap:</b><br>
 - Better optimisation of speed search results. :heavy_check_mark:<br>
