@@ -17,7 +17,7 @@ The main goal of the app is to centralize and simplify the process of searching 
 
 You can now easily install Cloud Choice from the browser like others native apps on your OS Desktop Windows, Linux, MacOS, Mobile, Android and iOS.
 
-<b>Bug fixes</b><br>
+<b>Bug fixes:</b><br>
 - JS issues on mobile app resolved  :heavy_check_mark:
 - The button search of the virtual keyboard close the keyboard  :heavy_check_mark:
 - Better responsive design and UX  :heavy_check_mark:
