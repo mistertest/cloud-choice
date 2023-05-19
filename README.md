@@ -28,26 +28,16 @@ You can now easily install Cloud Choice from the browser like others native apps
 <br>
 <b>Features Roadmap:</b>
 - Offline Mode
-
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...
-
 - New platforms:
 Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
-
 - Add to the Wishlist
-
 - An overview of the games that will leave the platforms
-
 - An overview of new games added  :heavy_check_mark:
-
 - Notifications for new games
-
 - Links to kinguin and Instant Gaming - Coming back soon
-
 - Url sharing links of results search :heavy_check_mark:
-
 - Authentification & Synchronisation Steam
-
 - Category Coop Games<br>
 
 ### PWA Installation
