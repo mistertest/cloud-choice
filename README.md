@@ -22,7 +22,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - The button search of the virtual keyboard close the keyboard  :heavy_check_mark:
 - Better responsive design and UX  :heavy_check_mark:
 
-<b>Optimisations Roadmap</b>
+<b>Optimisations Roadmap</b><br>
 - better optimisation of speed search results  :heavy_check_mark:
 - More light with data and media compression (gzip, webp...)
 <br>
@@ -39,7 +39,6 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Url sharing links of results search :heavy_check_mark:
 - Authentification & Synchronisation Steam
 - Category Coop Games
-<br>
 
 ### PWA Installation
 You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
