@@ -16,7 +16,7 @@ The main goal of the app is to centralize and simplify the process of searching 
 - <b>Xcloud</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Boosteroid</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Luna</b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Playstation Now</b> - Ready and auto-synchronised :heavy_check_mark:
+- <b>Playstation Now</b> - Ready and auto-synchronised:heavy_check_mark:
 - <b>Pleio</b> - Ready and auto-synchronised :heavy_check_mark:
 - <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
 
@@ -85,8 +85,8 @@ CloudChoice App on Windows 10
 <br>
 
 ![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
-
-
+nnn
+jjn
 
 
 <br>
@@ -123,10 +123,3 @@ Don't hesitate to making a comment and voting in the Product Hunt page. <br>
 Thank you Cloud Gamers !
 
 <a href="https://www.producthunt.com/posts/cloudchoice?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cloudchoice" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=343875&theme=light" alt="CloudChoice - Cloud&#0032;Choice&#0032;is&#0032;an&#0032;instant&#0032;search&#0032;app&#0032;for&#0032;the&#0032;Cloud&#0032;Gaming | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-
-
-
-
-
-
