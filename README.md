@@ -23,7 +23,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 - Better responsive design and UX  :heavy_check_mark:
 
 <b>Optimisations Roadmap:</b><br>
-- better optimisation of speed search results  :heavy_check_mark<br>
+- better optimisation of speed search results  :heavy_check_mark:<br>
 - More light with data and media compression (gzip, webp...)<br>
 <b>Features Roadmap:</b><br>
 - Offline Mode<br>
