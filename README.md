@@ -39,7 +39,7 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:<br>
 - Authentification & Synchronisation Steam<br>
 - Category Coop Games<br>
 
-### PWA Installation
+### Installation:
 You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
 
 ![install](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/button_install.PNG)
