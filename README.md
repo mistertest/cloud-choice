@@ -33,11 +33,11 @@
 - Wishlist functionality.<br>
 - An overview of the games that will leave the platforms.<br>
 - Game overviews.  :heavy_check_mark:<br>
-- Notifications for new games.<br>
+- New game notifications.<br>
 - Links to Kinguin, and instant gaming - Coming back soon<br>
 - Search result sharing functionality. :heavy_check_mark:<br>
 - Steam synchronization, and authentication.<br>
-- Implementation of co-op category.<br>
+- Implementation of a co-op category.<br>
 
 ### Installation:
 You can install Cloud Choice on PC, and mobile from the browser with the button at the bottom of the page.
