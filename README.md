@@ -56,7 +56,7 @@ CloudChoice App on Windows 10
 <br>
 #### CloudChoice Mobile
 <br>
-[cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
+[![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 <b>Technologies used for CloudChoice:</b>
 <br><br>
