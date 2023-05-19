@@ -52,13 +52,13 @@ CloudChoice Mobile
 
 <b>Technologies used for CloudChoice:</b>
 <br><br>
-HTML5
-CSS3
-JS
-Bootstrap
-Jquery
+- HTML5
+- CSS3
+- JS
+- Bootstrap
+- Jquery
 JSON
-Jq
+- JQ
 NodeJS
 Linux
 Regex
