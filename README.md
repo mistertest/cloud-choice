@@ -28,9 +28,7 @@ You can now easily install Cloud Choice from the browser like others native apps
 <br>
 <b>Features Roadmap</b>
 - Offline Mode
-
 - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...
-
 - New platforms :
 Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Add to the Wishlist
