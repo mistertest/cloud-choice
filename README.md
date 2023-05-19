@@ -51,6 +51,7 @@ Cloudchoice Desktop
 <br>
 ![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 CloudChoice Mobile
+
 <b>Technologies used for CloudChoice:</b>
 <br><br>
 HTML5 / CSS3 / JS / Bootstrap / Jquery / JSON / Jq / NodeJS / Linux / Regex / Python / Selenium / Cron / Rest API / PWA...
