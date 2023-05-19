@@ -44,7 +44,7 @@ You can install Cloud Choice on PC, and mobile from the browser with the button 
 
 ![install](https://raw.githubusercontent.com/mistertest/cloud-choice/main/img/button_install.PNG)
 ### Screenshots:
-CloudChoice Desktop
+Cloud Choice Desktop
 ![install1](https://github.com/mistertest/cloud-choice/blob/main/img/barre_tache.PNG)
 ![install2](https://github.com/mistertest/cloud-choice/blob/main/img/demarer_cloud_choice.png)
 ![Cloud Choice_Desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
