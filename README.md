@@ -27,15 +27,15 @@ You can now easily install Cloud Choice from the browser like others native apps
 - More light with data and media compression (gzip, webp...)
 <br>
 <b>Features Roadmap:</b>
-<b> - Offline Mode
-<b> - Theme select inspired by the design of Stadia, Steam, Discord, Xbox...
-<b> - New platforms:
-Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
-<b> - Add to the Wishlist
-<b> - An overview of the games that will leave the platforms
-<b> - An overview of new games added  :heavy_check_mark:
-<b> - Notifications for new games
-<b> - Links to kinguin and Instant Gaming - Coming back soon
+- Offline Mode<br>
+- Theme select inspired by the design of Stadia, Steam, Discord, Xbox...<br>
+- New platforms:
+Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:<br>
+- Add to the Wishlist<br>
+- An overview of the games that will leave the platforms<br>
+- An overview of new games added  :heavy_check_mark:<br>
+- Notifications for new games<br>
+- Links to kinguin and Instant Gaming - Coming back soon<br>
 - Url sharing links of results search :heavy_check_mark:<br>
 - Authentification & Synchronisation Steam<br>
 - Category Coop Games
