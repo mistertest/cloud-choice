@@ -39,8 +39,6 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 - Url sharing links of results search :heavy_check_mark:
 - Authentification & Synchronisation Steam
 - Category Coop Games
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 ### PWA Installation
 You can Install it on Desktop OS PC and Mobile directly from the browser with just one button click placed in bottom page.
@@ -64,6 +62,7 @@ CloudChoice App on Windows 10
 <b>Technos used for CloudChoice:</b>
 <br><br>
 Html5 / Css3 / Js / Bootstrap / Jquery / Json / Jq / NodeJs / Linux / Regex / Python / Selenium / Cron / Rest Api / PWA...
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 <b>The Progressive Web App</b> <br>
 The objective about API's , is to limit the interventions on the code as much as possible, and to have lists of games which will be synchronized automatically daily.
