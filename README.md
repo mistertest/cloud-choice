@@ -9,13 +9,13 @@
 
 <b>In the near future</b> Cloud Choice plans to integrate the game listing APIs of all the existing cloud gaming services, including:
 
-- <b>GeForce Now </b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Xcloud</b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Boosteroid</b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Luna</b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Playstation Now</b> - Ready and auto-synchronised:heavy_check_mark:
-- <b>Pleio</b> - Ready and auto-synchronised :heavy_check_mark:
-- <b>Blacknut</b> - Ready and auto-synchronised :heavy_check_mark:
+[✅] <b>GeForce Now </b> - Ready and auto-synchronised.
+[✅] <b>Xcloud</b> - Ready and auto-synchronised.
+[✅] <b>Boosteroid</b> - Ready and auto-synchronised.
+[✅] <b>Luna</b> - Ready and auto-synchronised.
+[✅] <b>Playstation Now</b> - Ready and auto-synchronised.
+[✅] <b>Pleio</b> - Ready and auto-synchronised.
+[✅] <b>Blacknut</b> - Ready and auto-synchronised.
 
 <b>Bug fixes:</b><br>
 [✅] JS issues on the mobile app are now resolved.<br>
