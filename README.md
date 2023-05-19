@@ -52,11 +52,11 @@ CloudChoice App on Windows 10
 <br>
 #### CloudChoice Desktop
 <br>
-[![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
+![cloud_choice_desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
 <br>
 #### CloudChoice Mobile
 <br>
-![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
+[cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
 <b>Technologies used for CloudChoice:</b>
 <br><br>
