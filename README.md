@@ -57,11 +57,11 @@ CloudChoice Mobile
 - JS
 - Bootstrap
 - Jquery
-JSON
+- JSON
 - JQ
-NodeJS
-Linux
-Regex
+- NodeJS
+- Linux
+- Regex
 - Python
 - Selenium
 - Cron
