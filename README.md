@@ -23,7 +23,7 @@ The main goal of the app is to centralize and simplify the process of searching 
 - Better optimisation of speed search results. :heavy_check_mark:<br>
 - More light with data and media compression. (gzip, webp...)<br>
 
-<b>Features Roadmap:</b><br>
+<b>Feature Roadmap:</b><br>
 - Offline Mode.<br>
 - Theme selectiond based inspired by the design of Stadia, Steam, Discord, Xbox, etc.<br>
 - New platforms:
