@@ -33,8 +33,8 @@ Amazon Luna, PlayStation Now, Pleio, Blacknut. :heavy_check_mark:<br>
 - Game overviews.  :heavy_check_mark:<br>
 - Notifications for new games<br>
 - Links to Kinguin, and instant gaming - Coming back soon<br>
-- Sharing search results. :heavy_check_mark:<br>
-- Authentication & synchronisation of Steam.<br>
+- Search result sharing functionality. :heavy_check_mark:<br>
+- Steam synchronization, and authentication.<br>
 - Implementation of co-op category.<br>
 
 ### Installation:
