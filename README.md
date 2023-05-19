@@ -37,7 +37,7 @@ Luna, Psnow, Pleio, Blacknut  :heavy_check_mark:
 <b> - Notifications for new games
 <b> - Links to kinguin and Instant Gaming - Coming back soon
 - Url sharing links of results search :heavy_check_mark:<br>
-- Authentification & Synchronisation Steam
+- Authentification & Synchronisation Steam<br>
 - Category Coop Games
 
 ### PWA Installation
