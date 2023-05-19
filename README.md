@@ -1,5 +1,5 @@
 # Cloud Choice
-![CloudChoice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
+![Cloud Choice](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 <br>
 
 <b>Cloud Choice</b> is a instant search app that offers a catalog of games from the major cloud gaming platforms.
@@ -47,12 +47,12 @@ You can install Cloud Choice on PC, and mobile from the browser with the button 
 CloudChoice Desktop
 ![install1](https://github.com/mistertest/cloud-choice/blob/main/img/barre_tache.PNG)
 ![install2](https://github.com/mistertest/cloud-choice/blob/main/img/demarer_cloud_choice.png)
-![CloudChoice_Desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
+![Cloud Choice_Desktop](https://github.com/mistertest/cloud-choice/blob/main/img/cloudchoice_newDesktop.PNG)
 <br>
-CloudChoice Mobile
-![CloudChoice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
+Cloud Choice Mobile
+![Cloud Choice Mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
-<b>Technologies used for CloudChoice:</b>
+<b>Technologies used for Cloud Choice:</b>
 - HTML5
 - CSS3
 - JS
