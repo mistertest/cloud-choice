@@ -23,7 +23,7 @@
 - Better responsive design, and UX.  :heavy_check_mark:
 
 <b>Optimisation Roadmap:</b><br>
-- Better optimisation of the search querying. :heavy_check_mark:<br>
+[-] Better optimisation of the search querying. :heavy_check_mark:<br>
 - More light with data and media compression. (gzip, webp...)⌛<br>
 
 <b>Feature Roadmap:</b><br>
