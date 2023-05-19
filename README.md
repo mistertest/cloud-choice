@@ -1,4 +1,4 @@
-# Cloud-Choice
+# Cloud Choice
 <br>
 ![Logo](https://github.com/mistertest/cloud-choice/blob/main/img/logo_cloud_choice300px.png)
 <br>
