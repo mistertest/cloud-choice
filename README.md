@@ -24,18 +24,18 @@ The main goal of the app is to centralize and simplify the process of searching 
 - More light with data and media compression. (gzip, webp...)<br>
 
 <b>Features Roadmap:</b><br>
-- Offline Mode<br>
-- Theme select inspired by the design of Stadia, Steam, Discord, Xbox...<br>
+- Offline Mode.<br>
+- Theme selectiond based inspired by the design of Stadia, Steam, Discord, Xbox, etc.<br>
 - New platforms:
-Amazon Luna, PlayStation Now, Pleio, Blacknut  :heavy_check_mark:<br>
-- Add to the wishlist.<br>
-- An overview of the games that will leave the platforms<br>
-- An overview of new games added  :heavy_check_mark:<br>
+Amazon Luna, PlayStation Now, Pleio, Blacknut. :heavy_check_mark:<br>
+- Wishlist functionality.<br>
+- An overview of the games that will leave the platforms.<br>
+- Game overviews.  :heavy_check_mark:<br>
 - Notifications for new games<br>
 - Links to Kinguin, and instant gaming - Coming back soon<br>
-- URL sharing links of results search :heavy_check_mark:<br>
-- Authentication & Synchronisation Steam<br>
-- Category Co-op Games<br>
+- Sharing search results. :heavy_check_mark:<br>
+- Authentication & synchronisation of Steam.<br>
+- Implementation of co-op category.<br>
 
 ### Installation:
 You can install Cloud Choice on PC, and mobile from the browser with the button at the bottom of the page.
