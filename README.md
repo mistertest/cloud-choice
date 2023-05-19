@@ -59,9 +59,9 @@ CloudChoice App on Windows 10
 <br>
 ![cloud_choice_mobile](https://github.com/mistertest/cloud-choice/blob/main/img/cloud_choiceV3_mobile.png)
 
-<b>Technos used for CloudChoice:</b>
+<b>Technologies used for CloudChoice:</b>
 <br><br>
-Html5 / Css3 / Js / Bootstrap / Jquery / Json / Jq / NodeJs / Linux / Regex / Python / Selenium / Cron / Rest Api / PWA...
+HTML5 / CSS3 / JS / Bootstrap / Jquery / JSON / Jq / NodeJS / Linux / Regex / Python / Selenium / Cron / Rest API / PWA...
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 <b>The Progressive Web App</b> <br>
