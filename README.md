@@ -68,7 +68,7 @@ Cloud Choice Mobile
 - Cron
 - Rest API
 - PWA
-
+<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,jquery,bootstrap,nodejs,linux,py,selenium)](https://skillicons.dev)
 <br><br>
 <b>The Progressive Web App:</b> <br>
